@@ -23,26 +23,3 @@ This is a feature-rich **eCommerce application** built with modern technologies,
 
 
 
-## 📦 Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ecommerce-app.git
-   cd ecommerce-app
-   ```
-2. Install dependencies:
-   ```bash
-   npm install  # For Node.js backend  
-   flutter pub get  # For Flutter frontend  
-   ```
-3. Configure environment variables (API keys, database URLs).
-4. Run the application:
-   ```bash
-   npm start  # For backend  
-   flutter run  # For frontend  
-   ```
-
-## 🤝 Contribution
-Contributions are welcome! Feel free to open issues and submit pull requests.
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
